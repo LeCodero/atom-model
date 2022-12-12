@@ -1,0 +1,12 @@
+{
+    "name": "atom-model",
+    "version": "1.0.0",
+    "description": "A project that uses the three.js library to visualize the structure of atoms.",
+    "main": "atom.js",
+    "author": "LeCodero",
+    "license": "MIT",
+    "dependencies": {
+      "three": "^0.121.1"
+    }
+  }
+  
