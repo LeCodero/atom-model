@@ -4,6 +4,12 @@ Atom Model is a Python model using the three.js library to visualize the structu
 
 ## Installation
 
+Use the package manager [npm](https://www.npmjs.com/) to install atom-model.
+
+```bash
+npm install atom-model
+```
+
 ## Usage
 Here is an example of usage permitting to visualise a Tennessine atom on a web page.
 
