@@ -1,6 +1,6 @@
 # atom-model
 
-Atom Model is a Python model using the three.js library to visualize the structure of atoms with the Bohr model.
+Atom Model is a javascript module using the three.js library to visualize the structure of atoms with the Bohr model.
 
 ## Installation
 
